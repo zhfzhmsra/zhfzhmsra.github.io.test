@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "张富峥"
 title_separator          : "-"
-name                     : &name "张富峥"
+name                     : &name "张富峥博士的个人主页"
 description              : &description "张富峥的个人主页"
 url                      : https://zhfzhmsra.github.io/ # the base hostname & protocol for your site e.g. "https://zhfzhmsra.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
