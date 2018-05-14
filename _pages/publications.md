@@ -8,8 +8,13 @@ author_profile: true
 
 * Jianxun Lian, Xiaohuan Zhou, **Fuzheng Zhang**, Zhongxia Chen, Xing Xie, Guangzhong Sun, xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
 
-* Jianxun Lian, Xiaohuan Zhou, Fuzheng Zhang, Zhongxia Chen, Xing Xie, Guangzhong Sun, xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
+* Yu Yin, Zhenya Huang, Enhong Chen, Qi Liu, **Fuzheng Zhang**, Xing Xie and Guoping Hu, Transcribing Content from Structural Images with Spotlight Mechanism, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
 
+## 2017
+
+* Jianxun Lian, Xiaohuan Zhou, **Fuzheng Zhang**, Zhongxia Chen, Xing Xie, Guangzhong Sun, xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
+
+* Yu Yin, Zhenya Huang, Enhong Chen, Qi Liu, **Fuzheng Zhang**, Xing Xie and Guoping Hu, Transcribing Content from Structural Images with Spotlight Mechanism, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
 
 {% comment %}
 
