@@ -2,7 +2,6 @@
 title: "xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems"
 collection: publications
 permalink: /publication/2018-08-19-paper-title-number-1
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-08-19
 venue: 'KDD'
 ---
