@@ -19,5 +19,5 @@ His research interests include personalized recommendation, information retrieva
 
 Work experience
 ======
-* 2017.3–2018.2 Reseacher, Microsoft Research Asia（Promote to 63 from 62）.
-* 2017.3–2018.2 Associate Reseacher II, Microsoft Research Asia（Promote to 62 from 61）.
+* 2017.3–2018.2  Reseacher, Microsoft Research Asia.
+* 2017.3–2018.2  Associate Reseacher II, Microsoft Research Asia.
