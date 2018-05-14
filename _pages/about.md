@@ -19,5 +19,9 @@ His research interests include personalized recommendation, information retrieva
 
 Work experience
 ======
-* 2017.3–2018.2  Reseacher, Microsoft Research Asia.
-* 2017.3–2018.2  Associate Reseacher II, Microsoft Research Asia.
+* 2017.3–2018.2:  Reseacher, Microsoft Research Asia.
+* 2015.7–2017.3:  Associate Reseacher II, Microsoft Research Asia.
+* 2014.9–2015.6:  Intern, Microsoft Research Asia.
+* 2014.4–2014.9:  Visit Scholar, Data & Knowledge Engineering Lab, The University of Queensland.
+* 2011.7–2014.4:  Intern, Microsoft Research Asia.
+* 2010.3–2010.8:  Intern, Microsoft Research Asia.
