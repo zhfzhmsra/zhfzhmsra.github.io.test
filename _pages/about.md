@@ -25,3 +25,8 @@ Work experience
 * 2014.4–2014.9:  Visit Scholar, Data & Knowledge Engineering Lab, The University of Queensland.
 * 2011.7–2014.4:  Intern, Microsoft Research Asia.
 * 2010.3–2010.8:  Intern, Microsoft Research Asia.
+
+
+Education
+======
+* 2010.9–2015.6:  Ph.D., joint supervision by [School of Computer Science and Technology, University of Science and Technology of China](http://www.ustc.edu.cn/) and [Microsoft Research Asia](https://www.msra.cn/).
