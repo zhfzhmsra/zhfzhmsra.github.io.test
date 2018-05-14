@@ -4,7 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Test 2018
+2018
+======
+* Jianxun Lian, Xiaohuan Zhou, Fuzheng Zhang, Zhongxia Chen, Xing Xie, Guangzhong Sun, xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
+
+* Jianxun Lian, Xiaohuan Zhou, Fuzheng Zhang, Zhongxia Chen, Xing Xie, Guangzhong Sun, xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
+
 
 {% comment %}
 
