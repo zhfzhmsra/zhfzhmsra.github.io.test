@@ -23,9 +23,14 @@ author_profile: true
 
 ## 2017
 
-* Jianxun Lian, Xiaohuan Zhou, **Fuzheng Zhang**, Zhongxia Chen, Xing Xie, Guangzhong Sun, xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
+* Honghao Wei, **Fuzheng Zhang**, Nicholas Jing Yuan, Chuan Cao, Hao Fu, Xing Xie, Yong Rui, Beyond the Words: Predicting User Personality from Heterogeneous Information, 10th ACM International Conference on Web Search and Data Mining (WSDM 2017), Cambridge, UK, Feb. 2017
 
-* Yu Yin, Zhenya Huang, Enhong Chen, Qi Liu, **Fuzheng Zhang**, Xing Xie and Guoping Hu, Transcribing Content from Structural Images with Spotlight Mechanism, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018.
+* Jianxun Lian, **Fuzheng Zhang**, Xing Xie, Guangzhong Sun, Restaurant Survival Analysis with Heterogeneous Information, 26th International World Wide Web Conference (WWW 2017), Perth, Western Australia, Apr. 2017
+
+* Jianxun Lian, **Fuzheng Zhang**, Xing Xie, Guangzhong Sun, CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems (Poster), 26th International World Wide Web Conference (WWW 2017), Perth, Western Australia, Apr. 2017
+
+* Fuzhen Zhuang, Zhou Yingmin, **Fuzheng Zhang**, Xiang Ao, Xing Xie and Qing He, Sequential Transfer Learning: Cross-domain Novelty Seeking Trait Mining for Recommendation (Poster), 26th International World Wide Web Conference (WWW 2017), Perth, Western Australia, Apr. 2017
+
 
 {% comment %}
 
