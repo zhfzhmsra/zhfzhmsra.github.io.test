@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "张富峥博士的个人主页"
+title                    : "Dr. Fuzheng Zhang's homepage"
 title_separator          : "-"
-name                     : &name "张富峥博士的个人主页"
-description              : &description "张富峥的个人主页"
+name                     : &name "Dr. Fuzheng Zhang's homepage"
+description              : &description "Dr. Fuzheng Zhang's homepage"
 url                      : https://zhfzhmsra.github.io/ # the base hostname & protocol for your site e.g. "https://zhfzhmsra.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhfzhmsra/zhfzhmsra.github.io"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "张富峥"
+  name             : "Fuzheng Zhang (张富峥)"
   avatar           : "zhfzh_small_same.jpg"
-  bio              : "仰望星空，脚踏实地"
-  location         : "北京"
+  bio              : "Reseacher at MSRA"
+  location         : "Beijing"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN&oi=ao"
   email            :
