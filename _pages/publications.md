@@ -52,7 +52,7 @@ author_profile: true
 
 * Yuan Zhong, Nicholas Jing Yuan, Wen Zhong, **Fuzheng Zhang**, Xing Xie , You Are Where You Go: Inferring Demographic Attributes from Location Check-ins, 8th ACM International Conference on Web Search and Data Mining (WSDM 2015), Shanghai, China, Jan. 2015
 
-Defu Lian, Yong Ge, **Fuzheng Zhang**, Nicholas Yuan, Xing Xie, Tao Zhou, Yong Rui, Content-Aware Collaborative Filtering for Location Recommendation based on Human Mobility Data, 15th IEEE International Conference on Data Mining (ICDM 2015), Atlantic City, NJ, Nov. 2015
+* Defu Lian, Yong Ge, **Fuzheng Zhang**, Nicholas Yuan, Xing Xie, Tao Zhou, Yong Rui, Content-Aware Collaborative Filtering for Location Recommendation based on Human Mobility Data, 15th IEEE International Conference on Data Mining (ICDM 2015), Atlantic City, NJ, Nov. 2015
 
 * Defu Lian, Xing Xie, **Fuzheng Zhang**, Nicholas J. Yuan, Tao Zhou, Yong Rui, Mining Location-based Social Networks: A Predictive Perspective, IEEE Data Engineering Bulletin, Vol. 38, No. 2, Jun. 2015, p35-46
 
@@ -74,7 +74,7 @@ Defu Lian, Yong Ge, **Fuzheng Zhang**, Nicholas Yuan, Xing Xie, Tao Zhou, Yong R
 
 * Nicholas Jing Yuan, **Fuzheng Zhang**, Defu Lian, Kai Zheng, Siyu Yu, Xing Xie, We Know How You Live: Exploring the Spectrum of Urban Lifestyles, ACM Conference on Online Social Networks (COSN 2013), Boston, USA, Oct. 2013
 
-* Nicholas Jing Yuan, Yingzi Wang, **Fuzheng Zhang**, Xing Xie, and Guangzhong Sun, Reconstructing Individual Mobility from Smart Card Transactions: A Space Alignment Approach, IEEE International Conference on Data Mining (ICDM 2013), 2013 (<span style="color:red;">best paper award</span>)
+* Nicholas Jing Yuan, Yingzi Wang, **Fuzheng Zhang**, Xing Xie, and Guangzhong Sun, Reconstructing Individual Mobility from Smart Card Transactions: A Space Alignment Approach, IEEE International Conference on Data Mining (ICDM 2013), 2013 (<span style="color:red;">best paper award</span><br />)
 
 
 {% comment %}
