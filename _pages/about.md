@@ -30,3 +30,5 @@ Work experience
 Education
 ======
 * 2010.9–2015.6:  Ph.D., joint supervision by [School of Computer Science and Technology, University of Science and Technology of China](http://www.ustc.edu.cn/) and [Microsoft Research Asia](https://www.msra.cn/).
+* 2006.9–2010.6:  Bachelor., School of Computer Science and Technology, University of Science and Technology of China.
+* 2006.9–2010.6:  Bachelor (dual degree)., Statistics & Finance, University of Science and Technology of China.
