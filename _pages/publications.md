@@ -74,7 +74,7 @@ author_profile: true
 
 * Nicholas Jing Yuan, **Fuzheng Zhang**, Defu Lian, Kai Zheng, Siyu Yu, Xing Xie, We Know How You Live: Exploring the Spectrum of Urban Lifestyles, ACM Conference on Online Social Networks (COSN 2013), Boston, USA, Oct. 2013
 
-* Nicholas Jing Yuan, Yingzi Wang, **Fuzheng Zhang**, Xing Xie, and Guangzhong Sun, Reconstructing Individual Mobility from Smart Card Transactions: A Space Alignment Approach, IEEE International Conference on Data Mining (ICDM 2013), 2013 (<span style="color:red;">best paper award</span><br />)
+* Nicholas Jing Yuan, Yingzi Wang, **Fuzheng Zhang**, Xing Xie, and Guangzhong Sun, Reconstructing Individual Mobility from Smart Card Transactions: A Space Alignment Approach, IEEE International Conference on Data Mining (ICDM 2013), Dallas, Texas, Dec. 2013 (<span style="color:red;font-weight:bold">best paper award</span>)
 
 
 {% comment %}
