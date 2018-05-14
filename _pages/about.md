@@ -15,3 +15,9 @@ Fuzheng Zhang is now a researcher at Microsoft Research Asia. His research mainl
 Fuzheng Zhang received his Ph.D. degree in Computer Science from University of Science and Technology of China in 2015, and B.S. degrees both in Computer Science and Statistics & Finance from the University of Science and Technology of China in 2010.
 
 His research interests include personalized recommendation, information retrieval, user modeling, natural language analysis, knowledge graph, deep learning, ctr predition, sentiment/emotion detection, location-based social networks, spatial temporal data mining, ubiquitous computing, and large-scale systems.
+
+
+Work experience
+======
+* 2017.3–2018.2 Reseacher, Microsoft Research Asia（Promote to 63 from 62）.
+* 2017.3–2018.2 Associate Reseacher II, Microsoft Research Asia（Promote to 62 from 61）.
