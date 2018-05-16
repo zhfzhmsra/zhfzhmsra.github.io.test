@@ -16,6 +16,8 @@ Fuzheng Zhang received his Ph.D. degree in Computer Science from University of S
 
 His research interests include personalized recommendation, information retrieval, user modeling, natural language analysis, knowledge graph, deep learning, ctr predition, sentiment/emotion detection, location-based social networks, spatial temporal data mining, ubiquitous computing, and large-scale systems.
 
+<span style="color:#1E90FF;font-weight:bold">Contact: zhfzhmsra AT gmail.com</span>
+
 
 Work experience
 ======
