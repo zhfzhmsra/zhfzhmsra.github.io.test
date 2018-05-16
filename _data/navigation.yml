@@ -5,15 +5,15 @@ main:
 
   - title: "Talks"
     url: /talks/    
+    
+  - title: "Projects"
+    url: /projects/
 
   - title: "Profession Services"
     url: /Profession_Services/    
           
   - title: "Articles"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Life"
     url: /markdown/
