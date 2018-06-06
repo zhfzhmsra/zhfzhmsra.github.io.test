@@ -10,6 +10,10 @@ author_profile: true
 
 * Yu Yin, Zhenya Huang, Enhong Chen, Qi Liu, **Fuzheng Zhang**, Xing Xie and Guoping Hu, Transcribing Content from Structural Images with Spotlight Mechanism, the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, United Kingdom, Aug. 2018
 
+* Jianxun Lian, **Fuzheng Zhang**, Xing Xie, Guangzhong Sun, Towards Better Representation Learning for Personalized News Recommendation: a Multi-Channel Deep Fusion Approach, the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI 2018), Stockholm, Sweden, July. 2018
+
+* Haochao Ying, Fuzhen Zhuang, **Fuzheng Zhang**, Yanchi Liu, Guandong Xu, Xing Xie, Hui Xiong, Jian Wu, Sequential Recommender System based on Hierarchical Attention Networks, the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI 2018), Stockholm, Sweden, July. 2018
+
 * Guanjie Zheng, **Fuzheng Zhang**, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie and Zhenhui Jessie Li, DRN: A Deep Reinforcement Learning Framework for News Recommendation, 27th International World Wide Web Conference (WWW 2018), Lyon, France, Apr. 2018.
 
 * Hongwei Wang, **Fuzheng Zhang**, Xing Xie and Minyi Guo, DKN: Deep Knowledge-Aware Network for News Recommendation, 27th International World Wide Web Conference (WWW 2018), Lyon, France, Apr. 2018
